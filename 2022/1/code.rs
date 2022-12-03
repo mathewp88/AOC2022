@@ -2,3 +2,6 @@
 // Author = Mathai Mathew
 // Date = December 2022
 
+fn main() {
+    println!("Hello, world!");
+}
